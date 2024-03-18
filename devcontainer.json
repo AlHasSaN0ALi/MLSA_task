@@ -1,7 +1,0 @@
-"extensions": [
-     "dbaeumer.vscode-eslint",
-     "esbenp.prettier-vscode",
-     "gitHub.copilot",
-     "ms-vscode.azure-account",
-     "ms-azuretools.vscode-azurestaticwebapps"
-]
